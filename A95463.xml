@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two petitions of the county of Yorke. The one presented to the Kings most excellent Maiesty, at Yorke the 3d. of June, 1642. The other to the Lords and Commons in Parliament assembled. With the additionals thereunto annexed. Die Lunæ Iune 6. 1642. Ordered by the Lords assembled in Parliament, that these two petitions, together with the additions, be forthwith printed and published. John Browne, Cler. Parliamentor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95463</idno>
+            <idno type="STC">Wing T3507</idno>
+            <idno type="STC">Thomason E149_28</idno>
+            <idno type="STC">ESTC R589</idno>
+            <idno type="EEBO-CITATION">99872915</idno>
+            <idno type="PROQUEST">99872915</idno>
+            <idno type="VID">156735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156735)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two petitions of the county of Yorke. The one presented to the Kings most excellent Maiesty, at Yorke the 3d. of June, 1642. The other to the Lords and Commons in Parliament assembled. With the additionals thereunto annexed. Die Lunæ Iune 6. 1642. Ordered by the Lords assembled in Parliament, that these two petitions, together with the additions, be forthwith printed and published. John Browne, Cler. Parliamentor.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 9], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ioseph Hunscott, and Iohn Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>P. 9 is misnumbered 8.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Yorkshire (England) --  Politics and government --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156735:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>TWO PETITIONS OF THE COUNTY OF YORKE.</p>
+            <p>The one Preſented to the Kings moſt Excellent Maieſty, at Yorke the 3d. of June, 1642.</p>
+            <p>The other to the Lords and Commons in Parliament Aſſembled.</p>
+            <p>With the Additionals thereunto annexed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae Iune 6. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords aſsembled in Parliament, that theſe two Petitions, together with the additi<g ref="char:EOLhyphen"/>ons, be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>John Browne,</hi> Cler. Parliament<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for Ioſeph Hunſcott, and Iohn Wright. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156735:2"/>
+            <!-- PDF PAGE 92 -->
+            <pb n="1" facs="tcp:156735:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>TO THE KINGS moſt Excellent MAIESTY The Humble Petition of the Gentry, Mini<g ref="char:EOLhyphen"/>ſters, Freeholders, and other Inhabitants of the County of Yorke,</head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat this particular County (moſt affectionate to your Maje<g ref="char:EOLhyphen"/>ſties ſervice) hath welnigh for three yeares laſt paſt beene the ſtage whereon the tragicall mi<g ref="char:EOLhyphen"/>ſeries (which neceſſarily ac<g ref="char:EOLhyphen"/>company and aſſociate Warre and Armies) have been repreſented and acted, whereby the generall wealth and plenty of this
+<pb n="2" facs="tcp:156735:3"/>
+               <!-- PDF PAGE 93 -->County is exhauſted and brought very low; which weight of miſeries are ſenſibly become much more heavy, by reaſon of your Majeſties diſtance in re<g ref="char:EOLhyphen"/>ſidence, and difference in Councels from your great Councell the Parliament, begetting great di<g ref="char:EOLhyphen"/>ſtempers and diſtractions throughout the King<g ref="char:EOLhyphen"/>dome, and have eſpecially amongſt us produced factions and diviſions; drawing to theſe parts great nu<g ref="char:cmbAbbrStroke">̄</g>bers of diſcontented perſons, that may too juſtly be feared, doe affect the publike ruine for their pri<g ref="char:EOLhyphen"/>vate advantage. All which evils are daily fomented &amp; grown more formidable by your Majeſties drawing together (as we conceive, not according to law) many Companies of the Trained Band and others, both horſe and foot, of this County, and retaining multitudes of Commanders and Cavaleetes from other parts, and by the daily reſort of the Recu<g ref="char:EOLhyphen"/>ſants and perſons diſaffected in Religion to your Majeſties Court at <hi>Yorke;</hi> and by the great prepa<g ref="char:EOLhyphen"/>rations of Armes and other warlike proviſions, which begets in us feares of wars, to the great ter<g ref="char:EOLhyphen"/>ror and amazement of us your Majeſties peaceable ſubjects, and the great decay of all commerce and induſtrious courſes for the wealth and proſperity of the Country, ſpecially of clothing, which is the maine ſubſiſtance of this County, and is ſince your Maieſties reſidence with us, and the following diſtractions thereupon ſuddenly obſtructed, inſomuch that many thouſand fa<g ref="char:EOLhyphen"/>milies who are of, and have their livelihood by the Trade of Cloathing, are at the point of utter
+<pb n="3" facs="tcp:156735:3"/>
+               <!-- PDF PAGE 93 -->undoing; which inevitably will prove to be of dangerous conſequence, and will be the inlet to our approaching and unavoydable ruine, unleſſe your Maieſtie pleaſe graciouſly to give redreſſe, by removing the cauſes which produce theſe miſera<g ref="char:EOLhyphen"/>ble effects: it being too true, that very many in theſe, and other parts of the Kingdome, doe wholy withdraw themſelves from their former commerce and dealing, and others, both Merchants, and Chapmen; doe now generally refuſe to make pay<g ref="char:EOLhyphen"/>ments for goods long ſince ſould and delivered, alledging, that others refuſe to pay them for any commoditie formerly ſould; till the feares and di<g ref="char:EOLhyphen"/>ſtractions of the La<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſettled, which if not ſud<g ref="char:EOLhyphen"/>denly prevented, will forthwith overturne all ſuch wayes of advantage and comfort, as have formerly made this Kingdome (and this County in particu<g ref="char:EOLhyphen"/>lar) proſperous and happy.</p>
+            <p>We doe therefore in all humility and duty in the ſence of our preſent deplorable condition: be<g ref="char:EOLhyphen"/>ſeech your Majeſty to pardon us, if we importune your Majeſty more then others, ſince we have en<g ref="char:EOLhyphen"/>dured and are in hazard more then any: and that from theſe apprehenſions we may offer to your Majeſty our earneſt Petitions, for redreſſe, and pre<g ref="char:EOLhyphen"/>vention of theſe evills, daily threatning danger to your Majeſty, and deſtruction to us, which we con<g ref="char:EOLhyphen"/>ceive is impoſſible any other way to be effected, then by your Majeſties entertaining a right underſtan<g ref="char:EOLhyphen"/>ding betwixt your ſelf &amp; Parliament; and affording your gracious eare and conſent to ſuch Councells
+<pb n="4" facs="tcp:156735:4"/>
+               <!-- PDF PAGE 94 -->and propoſitions, as ſhall be tendred by them to your Majeſty, for the honour and greatneſſe of your Majeſty and Poſterity, and the good of this Church and Kingdome; and by your Majeſties declining all other Counſells whatſoever, and uniting your con<g ref="char:EOLhyphen"/>fidence to your Parliament: And that your Majeſty would in no way thinke fit to put us upon that rocke of dividing the duty we owe to your Maje<g ref="char:EOLhyphen"/>ſty, your Parliament, and the whole Kingdome, (to which we are ſo deeply ingaged by our Proteſtati<g ref="char:EOLhyphen"/>on, which your Majeſty (to our knowledge) never diſſented from, not declared againſt) and that whilſt your Majeſty expects our p<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rmance in one part thereof, we may not (being equally engaged) im<g ref="char:EOLhyphen"/>peach at all or in the leaſt degree, goe leſſe then our duty in the other, which (we ſtand reſolved of) by no meanes either of feare or favour to be drawne to doe. And that your Majeſty would take into conſi<g ref="char:EOLhyphen"/>deration, that your Parliament being the ſupreame Iudicatorie of your Kingdome, the very eſſence thereof muſt of very neceſſity be deſtroyed, if their Counſells and determinatious be ſubjected to alte<g ref="char:EOLhyphen"/>ration, or reverſall by the Counſells, or opinions of any private perſons, how learned or judicious ſoe<g ref="char:EOLhyphen"/>ver; &amp; ſeeingyour Majeſty hath moſt graciouſly paſ<g ref="char:EOLhyphen"/>ſed an Act that this Parliament ſhall not be diſſol<g ref="char:EOLhyphen"/>ved, nor adjourned, without conſent of your Maje<g ref="char:EOLhyphen"/>ſty, and both Houſes: Wee doe humbly beſeech your Majeſty, to take into your gracious and pro<g ref="char:EOLhyphen"/>vident thoughts that nothing may be done tending thereunto: and that the Lords and great Officers now
+<pb n="5" facs="tcp:156735:4"/>
+               <!-- PDF PAGE 94 -->called hither by your Majeſties Command, may ſpeedily returne to the High Court of Parliament, whereby it may be evident to the world, that your Majeſty intends not to decline the Law ſo inacted; and that ſince your Majeſty hath graciouſly declared your confidence in the affections of this Countie, your Majeſty would not thinke it fit an extraordi<g ref="char:EOLhyphen"/>nary Guard ſhould be raiſed thereout, and the Cavaliers, and others of that quality ſtill conti<g ref="char:EOLhyphen"/>nued about your Majeſty (is men moſt uſefull, and as if kept for ſome deſigne) they not having (for ought we know) either intreſt in, or affections to the publike good; their language and behaviour ſpeaking nothing but diviſion, and war, and their advantage conſiſting in that which is moſt deſtru<g ref="char:EOLhyphen"/>ctive to others.</p>
+            <p>And laſtly, that ſince your Majeſty hath called in this County to attend your Majeſty this day; your Petitioners doe moſt humbly ſupplicate that none either Cavalieers, or others (who in truth have not preſent fortunes in this County) may be admitted into any meeting this day: concerning the publike buſineſſe thereof; or hereafter into any pre<g ref="char:EOLhyphen"/>ſent vote or conſultation when any further mee<g ref="char:EOLhyphen"/>ting may be, to prepare and conſider of ſome fit anſwer to what your Majeſty ſhall propound, wee humbly conceiving it neither iuſt nor equall (but a thing to be proteſted againſt) that any whoſoever ſhould be thruſt upon us, as men of this County, that are not either by their fortune or reſidence a<g ref="char:EOLhyphen"/>ny part of us.</p>
+            <p>
+               <pb n="6" facs="tcp:156735:5"/>
+               <!-- PDF PAGE 95 -->
+And now your Petitioners doe moſt heartily pray, that the God of Heaven, in whoſe hands are the hearts of Kings, would this day incline your Maje<g ref="char:EOLhyphen"/>ſties heart, ſeriouſly to conſider theſe preſent and imminent miſeries that this your Kingdome lyes under, in the peace whereof (viſibly under God) conſiſts the preſervation of the Proteſtant Religion the redemption of our Brethren in Ireland, and the eſtabliſhing of that Kingdome to your Maieſty and poſterity, from thoſe deſperate and unparaleld Re<g ref="char:EOLhyphen"/>bels, that ſo your Maieſty might graciouſly grant theſe your Petitioners humble deſires which (what<g ref="char:EOLhyphen"/>ſoever will be ſaid to the contrary) your Petitio<g ref="char:EOLhyphen"/>ners are well aſſured, would abundantly redound to the Glory of God, the honour and ſafety of your Maieſty, the good of your poſterity, and the one<g ref="char:EOLhyphen"/>ly probable meanes under God, with peace and plenty, to make this your Kingdome happy, be<g ref="char:EOLhyphen"/>ſides the happy acquiſition of your Peoples hearts, the greateſt treaſure of Princes, all which will glo<g ref="char:EOLhyphen"/>riouſly repreſent your Maieſties liuely portraiture, of him who is the fountaine of Wiſedome and pi<g ref="char:EOLhyphen"/>ety, to whom we ſhall ever pray for your Maieſties long and proſperous Reigne.</p>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:156735:5"/>
+            <!-- PDF PAGE 95 -->
+            <head>To the right Honou<g ref="char:EOLhyphen"/>rable, the Lords and Com<g ref="char:EOLhyphen"/>mons in the High Court of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> aſſembled.</head>
+            <head type="sub">
+               <hi>The Humble Petition of the Gentrie, Mi<g ref="char:EOLhyphen"/>niſters, Free-holders, and other Inhabi<g ref="char:EOLhyphen"/>tants of the County of</hi> York, <hi>aſſembled there at His Majeſties Command, the third of</hi> June, 1642.</head>
+            <p>WE being reſolved humbly to petition His Majeſty for the redreſſe of thoſe grievances which wee now lye under, did deſire to have met in the Caſtle<g ref="char:EOLhyphen"/>yard at <hi>Yorke,</hi> wee conceiving it the fitteſt place to conſider of ſuch publike affaires as concer<g ref="char:EOLhyphen"/>ned the County, which we were not onely denyed of, but charge was given to the Officer there, that wee ſhould
+<pb n="8" facs="tcp:156735:6"/>
+               <!-- PDF PAGE 96 -->not have admittance; and when we aſſembled upon the place appoynted by his Majeſty, and did acquaint the County there met with the forme of a Petition, the ſence whereof they formerly approved of, and then upon the reading thereof, generally conſented to, and deſired the ſame ſhould be preſented to his Majeſty, we were vio<g ref="char:EOLhyphen"/>ently interrupted by the Earle of <hi>Linſey,</hi> who with a great Troop attending him, in an imperious way, ſnatched out of a Gentlemans hand of good quality, a Coppy of the fore-named Petition, which at the deſire of the Country he was reading to them, and ſome of his Lordſhips com<g ref="char:EOLhyphen"/>pany laid hold of his Bridle and Cloake, hailing him in great fury; and ſayd you are a company of trayterous Rogues and Villaines, and often lifted up his Cane, as if he would have ſtruck him. And alſo a Knight of this County was affronted by the Lord <hi>Savile;</hi> upon his rea<g ref="char:EOLhyphen"/>ding the draught of a Petition to himſelfe, upon the place afore ſayd, the day above: Firſt, his Lordſhip told him it was a <hi>Pamphlet,</hi> which he denyed, thereupon the Lord <hi>Savile</hi> demanded it of him, which he refuſing to deliver, his Lordſhip layd hands upon his Sword, and almoſt pluckt him from his Horſe; upon which, the ſaid Knight ſearing ſome miſchiefe would bee done him, de<g ref="char:EOLhyphen"/>livered the ſame: And then the ſaid Lord <hi>Savile</hi> told him, he laboured to ſow feeds of Sedition, and if he would fight, there ſhould be fighting enough, and many of the ſaid Lord <hi>Savile's</hi> company held up their Canes at him, and one of them ſayd; hold your prating, it were good to Cane you: Which provocations, had not the people beene peaceably enclyned, might have produced blondy effects. Notwithſtanding all which, and divers other inſufferable Iniuries, ſo confident were we of his
+<pb n="8" facs="tcp:156735:6"/>
+               <!-- PDF PAGE 96 -->Maieſties former profeſſions, never to refuſe any <hi>Petiti<g ref="char:EOLhyphen"/>on</hi> preſented by his people to him in an humble way, that we deſiſted not to wait our beſt opportunity, to preſent the ſaid <hi>Petition</hi> to his Maieſty: (A Coppy whereof we here humbly preſent unto your grave conſi<g ref="char:EOLhyphen"/>derations, which his Maieſty notwithſtanding pleaſed not to accept of.</p>
+            <p>We therefore humbly deſire theſe Honourable Hou<g ref="char:EOLhyphen"/>ſes well to weigh theſe particulars, and to take ſuch courſe therein as may tend to the preſerva<g ref="char:EOLhyphen"/>tion of our Liberties, and the peace of the King<g ref="char:EOLhyphen"/>dome. And that you would pleaſe to addreſſe your ſelves to His Maieſty on our behalfe, that through your wiſedomes our Deſires may finde better acceptation with his Maieſty.</p>
+            <closer>And we ſhall heartily pray, &amp;c.</closer>
+         </div>
+         <div type="reply_to_petitions">
+            <pb facs="tcp:156735:7"/>
+            <!-- PDF PAGE 97 -->
+            <opener>
+               <dateline>
+                  <date>Monday the 6. of Iune. 1642. P. Merid.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords and Commons obſerving not only the <hi>wiſedome,</hi> but the <hi>affections</hi> of the <hi>County</hi> of <hi>Yorke</hi> expreſſed in theſe <hi>Pe<g ref="char:EOLhyphen"/>titions,</hi> and likewiſe that they cannot bee diſ<g ref="char:EOLhyphen"/>couraged from their conſtant <hi>fidelity</hi> to the <hi>Lawes</hi> and <hi>Government</hi> of this <hi>Kingdome,</hi> which have their <hi>Life</hi> and being from the <hi>Parliament,</hi> have thought it fit to <hi>declare</hi> their good ac<g ref="char:EOLhyphen"/>ceptations of their affections, aſſuring them that they will <hi>intereſt</hi> themſelves in this Their Demaunds, which tends to the <hi>honour</hi> and <hi>ſafety</hi> of his Majeſty, the peace of his King<g ref="char:EOLhyphen"/>dome, and may prove an effectuall meanes to keepe us from the deſperate miſchiefes thoſe <hi>Lords</hi> that oppoſed this <hi>Petition</hi> would have brought this Kingdome into.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
